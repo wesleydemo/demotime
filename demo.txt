@@ -1,4 +1,4 @@
-add some stuff ADDED
+add some different stuff
 
 add some more stuff
 
@@ -8,3 +8,5 @@ command line
 
 at the end
 at the end
+more things
+and more things
